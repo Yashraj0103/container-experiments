@@ -62,7 +62,7 @@ Docker_Practices/
 - The **root password** is set to `root` (change this in production for security).  
 
 ## 🔗 Repository Link  
-🔗 **GitHub:** [BhavyaDhimxn/container-experiments](https://github.com/BhavyaDhimxn/container-experiments.git)  
+🔗 **GitHub:** [Yashraj0103/container-experiments](https://github.com/Yashraj0103/container-experiments.git)  
 
 ---
 
